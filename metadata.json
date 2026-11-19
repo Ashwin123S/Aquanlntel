@@ -1,0 +1,8 @@
+{
+  "name": "Remix AquaIntel",
+  "description": "Intelligent Water Consumption Monitoring, Prediction, Classification, and Anomaly Detection System for municipal water analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
